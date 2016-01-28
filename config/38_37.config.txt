@@ -1,0 +1,13 @@
+-- auto gen by ParaEngine
+OnLoadFile = worlds/DesignHouse/在地震中生存1/script/38_37.onload.lua
+Heightmapfile = worlds/DesignHouse/在地震中生存1/elev/38_37.raw
+MainTextureFile = Texture/tileset/generic/MainTexture.dds
+CommonTextureFile = Texture/tileset/generic/whitesand.dds
+Size = 533.333313
+ElevScale = 1.0
+Swapvertical = 1
+HighResRadius = 30
+DetailThreshold = 50.000000
+MaxBlockSize = 16
+DetailTextureMatrixSize = 64
+NumOfDetailTextures = 1

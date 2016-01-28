@@ -1,0 +1,24 @@
+
+<entities file_version="0.1">
+	<entity bz="19157" bx="19220" name="player_spawn_point" class="EntityHomePoint" item_id="20002" by="21">
+		<rulebag>
+			<slot count="1" id="10054">spawn.lua
+			</slot>
+		</rulebag>
+	</entity>
+	<entity bz="19162" motionZ="0" onGround="true" displayName="选择地图" class="Mob" item_id="20001" name="SelectMap" bx="19214" can_random_move="false" motionX="0" showHeadOn="true" by="24" scaling="1.6391277307681e-008" motionY="0"/>
+	<entity bz="19162" motionZ="0" onGround="true" displayName="游戏规则，不断地跑，不要掉下去" class="Mob" item_id="20001" name="Rule" bx="19220" can_random_move="false" motionX="0" showHeadOn="true" by="23" scaling="1.6391277307681e-008" motionY="0"/>
+	<entity filename="" IsSimulatedSky="true" rainStrength="0" snowStrength="0" class="EntitySky" name="sky"/>
+	<entity bz="19162" motionZ="0" onGround="true" displayName="背景音乐" class="Mob" item_id="20001" name="BGMSET" bx="19228" can_random_move="false" motionX="0" showHeadOn="true" by="23" scaling="1.6391277307681e-008" motionY="0"/>
+	<entity bz="19162" motionZ="0" onGround="true" displayName="QQ群453738539" class="Mob" item_id="20001" name="Group" bx="19224" can_random_move="false" motionX="0" showHeadOn="true" by="23" scaling="1.6391277307681e-008" motionY="0"/>
+	<entity class="EntityDesktop" name="desktop">
+		<inventory>
+			<slot count="1" id="10054">{tooltip="更改地图","ChangeMap.lua",}
+			</slot>
+			<slot count="1" id="10054">{tooltip="开始游戏","setupmap.lua",}
+			</slot>
+		</inventory>
+	</entity>
+	<entity bz="19162" motionZ="0" onGround="true" displayName="开始游戏" class="Mob" item_id="20001" name="Start" bx="19216" can_random_move="false" motionX="0" showHeadOn="true" by="23" scaling="1.3411045080014e-008" motionY="0"/>
+	<entity bz="19162" motionZ="0" onGround="true" displayName="音效设定" class="Mob" item_id="20001" name="SOUNDSET" bx="19232" can_random_move="false" motionX="0" showHeadOn="true" by="23" scaling="1.6391277307681e-008" motionY="0"/>
+</entities>

@@ -1,0 +1,4 @@
+
+<pe:mcml>
+	<pe:world seed="华山轮奸" world_generator="empty" size="0" texture_pack_text="龙之舞材质包" texture_pack_url="http://www.paraengine.com/twiki/pub/CCWeb/RecommendedTextureListData/Paracraft64xDragonDance.zip" nid="12730989" create_date="2015-6-29" texture_pack_type="official" desc="" texture_pack_path="worlds/BlockTextures/official/Paracraft64xDragonDance_r2.zip" rendermethod="1" renderdist="200" waterreflection="" totaltime="0" name="华山论剑 V2.6 新版本兼容更新" shadow=""/>
+</pe:mcml>

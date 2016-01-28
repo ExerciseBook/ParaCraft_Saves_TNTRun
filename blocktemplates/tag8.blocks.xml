@@ -1,0 +1,4 @@
+<pe:blocktemplate author_nid="0" player_pos="19216,20,19159" pivot="19214,22,19161" name="123" creation_date="2015-08-06_205037">
+	<pe:blocks>{{0,0,0,211,3,{{name="cmd",{name="![CDATA[","\n\r地图编号:8\n\r星罗藤盘",},},name="entity",attr={bz=19161,bx=19214,facing=1.57,class="EntitySign",item_id=211,by=22,},},},}
+	</pe:blocks>
+</pe:blocktemplate>

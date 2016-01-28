@@ -1,0 +1,31 @@
+<neurons offsets="0,0,0" file_version="0.1">
+<neuron x='19224' y='22' z='19161' filename='qqgroup.lua' >
+<axon><d x='-14' y='0' z='1'/></axon>
+</neuron>
+<neuron x='19214' y='24' z='19161' filename='ChangeMap.lua' >
+</neuron>
+<neuron x='19214' y='22' z='19161' filename='elua.lua' >
+</neuron>
+<neuron x='19225' y='22' z='19161' filename='qqgroup.lua' >
+</neuron>
+<neuron x='19217' y='20' z='19161' >
+<mem>{[-20200]={dest=183,weight=6,},}</mem>
+</neuron>
+<neuron x='19232' y='22' z='19161' filename='Sound.lua' >
+</neuron>
+<neuron x='19214' y='23' z='19162' filename='ChangeMap.lua' >
+</neuron>
+<neuron x='19214' y='23' z='19161' filename='ChangeMap.lua' >
+</neuron>
+<neuron x='19228' y='22' z='19161' filename='BGM.lua' >
+</neuron>
+<neuron x='19219' y='22' z='19161' filename='setupmap.lua' >
+<axon><d x='-2' y='-2' z='0'/></axon>
+</neuron>
+<neuron x='19228' y='23' z='19162' filename='setupmap.lua' >
+</neuron>
+<neuron x='19216' y='22' z='19163' filename='setupmap.lua' >
+</neuron>
+<neuron x='19216' y='22' z='19161' filename='setupmap.lua' >
+</neuron>
+</neurons>
