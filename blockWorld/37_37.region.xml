@@ -1,35 +1,39 @@
-﻿
+
 <entities file_version="0.1">
-	<entity bz="19058" bx="19234" class="EntityCommandBlock" item_id="212" by="3">
-		<inventory>
-			<slot count="1" id="10054">gamecheck.lua
-			</slot>
-		</inventory>
-	</entity>
 	<entity bz="19058" bx="19231" class="EntityCommandBlock" item_id="212" by="2">
 		<inventory>
 			<slot count="1" id="10060">http://jq.qq.com/?_wv=1027&amp;k=SkmO76
 			</slot>
 		</inventory>
 	</entity>
-	<entity bz="19161" bx="19204" facing="1.57" class="EntitySign" item_id="211" by="25">
-		<cmd><![CDATA[制作人员名单
+	<entity bz="19058" bx="19234" isPowered="true" class="EntityCommandBlock" item_id="212" by="3">
+		<inventory>
+			<slot count="1" id="10054">gamecheck.lua
+			</slot>
+		</inventory>
+	</entity>
+	<entity bz="19161" bx="19191" facing="1.57" class="EntitySign" item_id="211" by="24">
+		<cmd><![CDATA[在十秒内
+不会死亡]]>
+		</cmd>
+	</entity>
+	<entity bz="19161" bx="19214" facing="1.57" class="EntitySign" item_id="211" by="22">
+		<cmd><![CDATA[
+怎么会有编号
+随机选择]]>
+		</cmd>
+	</entity>
+	<entity bz="19161" bx="19203" facing="1.57" class="EntitySign" item_id="211" by="24">
+		<cmd><![CDATA[建筑：小寂
 
-策划：Eric，小寂
-　　　桌子　　　]]>
+
+地形：Eric]]>
 		</cmd>
 	</entity>
-	<entity bz="19161" bx="19192" facing="1.57" class="EntitySign" item_id="211" by="27">
+	<entity bz="19161" bx="19206" facing="1.57" class="EntitySign" item_id="211" by="25">
 		<cmd><![CDATA[　
-栀子之殇
-さよなら君の声]]>
-		</cmd>
-	</entity>
-	<entity bz="19161" bx="19192" facing="1.57" class="EntitySign" item_id="211" by="25">
-		<cmd><![CDATA[每个游戏循环
-出现几率是
-1/200
-平均 20秒一个]]>
+Ver 3.0 特别版
+2015-10-17]]>
 		</cmd>
 	</entity>
 	<entity bz="19161" bx="19190" facing="1.57" class="EntitySign" item_id="211" by="25">
@@ -37,22 +41,10 @@
 跳跃道具]]>
 		</cmd>
 	</entity>
-	<entity bz="19161" bx="19191" facing="1.57" class="EntitySign" item_id="211" by="24">
-		<cmd><![CDATA[在十秒内
-不会死亡]]>
-		</cmd>
-	</entity>
-	<entity bz="19161" bx="19192" facing="1.57" class="EntitySign" item_id="211" by="23">
-		<cmd><![CDATA[每个游戏循环
-　出现几率是
-1/600
-平均 60秒一个]]>
-		</cmd>
-	</entity>
-	<entity bz="19161" bx="19191" facing="1.57" class="EntitySign" item_id="211" by="27">
+	<entity bz="19161" bx="19193" facing="1.57" class="EntitySign" item_id="211" by="27">
 		<cmd><![CDATA[　
-普通游戏BGM
-AiAe]]>
+樱花之恋
+恋咏桜]]>
 		</cmd>
 	</entity>
 	<entity bz="19161" bx="19192" facing="1.57" class="EntitySign" item_id="211" by="24">
@@ -68,41 +60,10 @@ AiAe]]>
 竹取飞翔]]>
 		</cmd>
 	</entity>
-	<entity bz="19161" bx="19192" facing="1.57" class="EntitySign" item_id="211" by="26">
-		<cmd><![CDATA[　
-　
-出现几率]]>
-		</cmd>
-	</entity>
-	<entity bz="19161" bx="19189" facing="1.57" class="EntitySign" item_id="211" by="27">
-		<cmd><![CDATA[　
-Bgm介绍]]>
-		</cmd>
-	</entity>
-	<entity bz="19161" bx="19204" facing="1.57" class="EntitySign" item_id="211" by="24">
-		<cmd><![CDATA[美工：鲍螺
-米米号2315788
-
-程序：Eric]]>
-		</cmd>
-	</entity>
-	<entity bz="19161" bx="19191" facing="1.57" class="EntitySign" item_id="211" by="26">
-		<cmd><![CDATA[　
-　
-作用]]>
-		</cmd>
-	</entity>
 	<entity bz="19161" bx="19189" facing="1.57" class="EntitySign" item_id="211" by="26">
 		<cmd><![CDATA[　
 　
 道具介绍]]>
-		</cmd>
-	</entity>
-	<entity bz="19161" bx="19203" facing="1.57" class="EntitySign" item_id="211" by="24">
-		<cmd><![CDATA[建筑：小寂
-
-
-地形：Eric]]>
 		</cmd>
 	</entity>
 	<entity bz="19161" bx="19191" facing="1.57" class="EntitySign" item_id="211" by="23">
@@ -112,42 +73,16 @@ Bgm介绍]]>
 修复脚下方块]]>
 		</cmd>
 	</entity>
-	<entity bz="19161" bx="19203" facing="1.57" class="EntitySign" item_id="211" by="23">
-		<cmd><![CDATA[　
-小寂
-暮雨
-饭团]]>
-		</cmd>
-	</entity>
-	<entity bz="19161" bx="19214" facing="1.57" class="EntitySign" item_id="211" by="22">
-		<cmd><![CDATA[
-
-怎么会有编号
-
-随机选择]]>
-		</cmd>
-	</entity>
 	<entity bz="19161" bx="19190" facing="1.57" class="EntitySign" item_id="211" by="24">
 		<cmd><![CDATA[　
 浮空道具]]>
 		</cmd>
 	</entity>
-	<entity bz="19161" bx="19191" facing="1.57" class="EntitySign" item_id="211" by="25">
-		<cmd><![CDATA[在十秒内
-允许跳跃
-_(:з」∠)_]]>
-		</cmd>
-	</entity>
-	<entity bz="19161" bx="19193" facing="1.57" class="EntitySign" item_id="211" by="27">
+	<entity bz="19161" bx="19203" facing="1.57" class="EntitySign" item_id="211" by="23">
 		<cmd><![CDATA[　
-樱花之恋
-恋咏桜]]>
-		</cmd>
-	</entity>
-	<entity bz="19161" bx="19205" facing="1.57" class="EntitySign" item_id="211" by="23">
-		<cmd><![CDATA[　
-沧海
-桌子]]>
+小寂
+暮雨
+饭团]]>
 		</cmd>
 	</entity>
 	<entity bz="19161" bx="19190" facing="1.57" class="EntitySign" item_id="211" by="26">
@@ -156,10 +91,61 @@ _(:з」∠)_]]>
 名称]]>
 		</cmd>
 	</entity>
-	<entity bz="19161" bx="19206" facing="1.57" class="EntitySign" item_id="211" by="25">
+	<entity bz="19161" bx="19192" facing="1.57" class="EntitySign" item_id="211" by="23">
+		<cmd><![CDATA[每个游戏循环
+　出现几率是
+1/600
+平均 60秒一个]]>
+		</cmd>
+	</entity>
+	<entity bz="19161" bx="19204" facing="1.57" class="EntitySign" item_id="211" by="24">
+		<cmd><![CDATA[美工：鲍螺
+米米号2315788
+
+程序：Eric]]>
+		</cmd>
+	</entity>
+	<entity bz="19161" bx="19192" facing="1.57" class="EntitySign" item_id="211" by="25">
+		<cmd><![CDATA[每个游戏循环
+出现几率是
+1/200
+平均 20秒一个]]>
+		</cmd>
+	</entity>
+	<entity bz="19161" bx="19191" facing="1.57" class="EntitySign" item_id="211" by="26">
 		<cmd><![CDATA[　
-Ver 2.6 新版本兼容更新
-2016-01-17]]>
+　
+作用]]>
+		</cmd>
+	</entity>
+	<entity bz="19161" bx="19204" facing="1.57" class="EntitySign" item_id="211" by="23">
+		<cmd><![CDATA[地图设计
+Eric
+桃子]]>
+		</cmd>
+	</entity>
+	<entity bz="19161" bx="19189" facing="1.57" class="EntitySign" item_id="211" by="27">
+		<cmd><![CDATA[　
+Bgm介绍]]>
+		</cmd>
+	</entity>
+	<entity bz="19161" bx="19204" facing="1.57" class="EntitySign" item_id="211" by="25">
+		<cmd><![CDATA[制作人员名单
+
+策划：Eric，小寂
+　　　桌子　　　]]>
+		</cmd>
+	</entity>
+	<entity bz="19161" bx="19192" facing="1.57" class="EntitySign" item_id="211" by="27">
+		<cmd><![CDATA[　
+栀子之殇
+さよなら君の声]]>
+		</cmd>
+	</entity>
+	<entity bz="19161" bx="19205" facing="1.57" class="EntitySign" item_id="211" by="23">
+		<cmd><![CDATA[　
+沧海
+桌子]]>
 		</cmd>
 	</entity>
 	<entity bz="19161" bx="19190" facing="1.57" class="EntitySign" item_id="211" by="23">
@@ -167,10 +153,22 @@ Ver 2.6 新版本兼容更新
 修复道具]]>
 		</cmd>
 	</entity>
-	<entity bz="19161" bx="19204" facing="1.57" class="EntitySign" item_id="211" by="23">
-		<cmd><![CDATA[地图设计
-Eric
-桃子]]>
+	<entity bz="19161" bx="19192" facing="1.57" class="EntitySign" item_id="211" by="26">
+		<cmd><![CDATA[　
+　
+出现几率]]>
+		</cmd>
+	</entity>
+	<entity bz="19161" bx="19191" facing="1.57" class="EntitySign" item_id="211" by="25">
+		<cmd><![CDATA[在十秒内
+允许跳跃
+_(:з」∠)_]]>
+		</cmd>
+	</entity>
+	<entity bz="19161" bx="19191" facing="1.57" class="EntitySign" item_id="211" by="27">
+		<cmd><![CDATA[　
+普通游戏BGM
+AiAe]]>
 		</cmd>
 	</entity>
 </entities>
